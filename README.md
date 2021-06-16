@@ -172,6 +172,18 @@ Let's say we want to discard the changes and get back to the first state before 
 
     > git checkout [firstname].txt
 
+### Update your copy
+
+---
+
+Each time you verify/add/commit your changes , you need to do this
+
+    > git pull origin main
+    
+    > git push origin main
+
+This will allow you to download updates of your collaborators and the github repository so others can download them.
+
 ### Branching
 
 ---
@@ -324,3 +336,12 @@ Once I have done that, I can then mark the conflict as fixed by using
     > git commit -m "Fixed conflict"
 
 Congratulations. You have fixed the conflict. All is good in the world.
+
+## _Github_
+
+---
+
+We will be doing the same thing on github (I mean fixing conflicts).
+First you need to push your branch in order to create merge request and merge your branche with the main branch.
+
+Thank you for making it this far
