@@ -32,7 +32,7 @@ First, clone this repository:
     > cd Git-Workshop
     > ls
 
-To see the gir -hidden- subdirectory try this :
+To see the git -hidden- subdirectory try this :
 
     > ls -a
 
