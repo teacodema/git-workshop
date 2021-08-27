@@ -64,7 +64,7 @@ Git allows us to see what happend using this command
 
     > git log
 
-the result should like this
+the result should look like this
 
 ![image info](./img/gitlog.png)
 
