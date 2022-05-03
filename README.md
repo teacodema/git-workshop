@@ -109,7 +109,7 @@ The result should be something like
     @@ -0,0 +1 @@
     +This some text
 
-Now let’s add our modified file, alice.txt to the staging area. Do you remember how ?
+Now let’s add our modified file, [firstname].txt to the staging area. Do you remember how ?
 
 Next, check the status of [firstname].txt. Is it in the staging area now?
 
